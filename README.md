@@ -89,3 +89,8 @@ The dataset files are not included in this GitHub repository because of their la
 
 ECG Heartbeat Classification Project — PyTorch from Scratch.
 int, test metrics, or confusion matrix is claimed here. Run `python src/train.py` to completion, followed by `python src/test_model.py`, to generate these items.
+## Frontend Application
+
+The project includes an interactive Streamlit interface for ECG heartbeat classification.
+
+![ECG Streamlit Frontend](frontend_screenshot.png)
