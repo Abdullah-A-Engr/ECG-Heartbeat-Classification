@@ -1,0 +1,6 @@
+class,train_count,validation_count,test_count
+N,65227,7244,18118
+S,1988,235,556
+V,5217,571,1448
+F,584,57,162
+Q,5783,648,1608

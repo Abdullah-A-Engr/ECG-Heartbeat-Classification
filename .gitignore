@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+# Dataset archives are supplied locally for this assignment; do not push them to GitHub.
+data/*.zip
+results/*.pt

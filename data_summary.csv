@@ -1,0 +1,2 @@
+train_rows,validation_rows,test_rows,signal_min,signal_max
+78799,8755,21892,0.0,1.0
